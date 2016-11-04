@@ -5,19 +5,19 @@
   }, 
   {
     "ParameterKey": "KeyName",
-    "ParameterValue": "Instance1"
+    "ParameterValue": "apple"
   },
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-b04e92d0"
+    "ParameterValue": "ami-b73b63a0"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-62eb741b"
+    "ParameterValue": "sg-04e92779"
   },
   {
     "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-caa2d6bc"
+    "ParameterValue": "subnet-7b0faa56"
   }
   
 ]
